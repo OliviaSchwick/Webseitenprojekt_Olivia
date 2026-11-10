@@ -32,5 +32,6 @@ ol {
     boder-radius: 10px;
     backround-color: white;
     color: darkorange;
-    width: 100%;
+    margin: 0.5rem;
+    padding: 2rem;
 }
