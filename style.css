@@ -12,7 +12,25 @@ h1 {
     color: white
 }
 
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
 ol {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.layout {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.rahmen {
+    border: 2px solid white;
+    boder-radius: 10px;
+    backround-color: white;
+    color: darkorange;
+    width: 100%;
 }
