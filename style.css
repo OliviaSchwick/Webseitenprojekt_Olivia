@@ -15,6 +15,17 @@ h1 {
 h2 {
     font-family: Arial, Helvetica, sans-serif;
     color: white;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
 }
 
 ol {
@@ -27,6 +38,7 @@ ol {
     grid-template-columns: 1fr 1fr 1fr;
 }
 
+
 .rahmen {
     border: 2px solid white;
     boder-radius: 10px;
@@ -34,4 +46,9 @@ ol {
     color: darkorange;
     margin: 0.5rem;
     padding: 2rem;
+    border-radius: 25px;
+}
+
+.untertitel {
+    font-size: 1rem;
 }
