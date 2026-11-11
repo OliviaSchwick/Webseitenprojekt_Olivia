@@ -1,35 +1,26 @@
 body {
     background-color: darkorange;
-}
-
-p {
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     font-family: Arial, Helvetica, sans-serif;
-    color: white
 }
 
 h2 {
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
     text-align: center;
 }
 
 h4 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: white;
+    font-family: 'Times New Roman', Times, serif;
 }
 
-h5 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: white;
+h8 {
+    text-align: center;
 }
 
 ol {
-    color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -39,11 +30,10 @@ ol {
 }
 
 
+
 .rahmen {
     border: 2px solid white;
-    boder-radius: 10px;
     backround-color: white;
-    color: darkorange;
     margin: 0.5rem;
     padding: 2rem;
     border-radius: 25px;
